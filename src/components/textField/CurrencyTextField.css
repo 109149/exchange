@@ -1,0 +1,15 @@
+.flagImage {
+  border-radius: 50%;
+}
+
+.textField {
+  width: 300px;
+}
+
+.selectField {
+  width: 90px;
+}
+
+.selectFieldText {
+  font-size: 12px;
+}
